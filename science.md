@@ -10,3 +10,7 @@
 ## 其它
 - 如何配置github项目上传；
 - npm安装时，package.json的项目名不能和要安装的报名同名，否则不能安装；
+- charles解决乱码问题；
+- charles如何设置代理；
+- 删除/命名github项目；
+-
