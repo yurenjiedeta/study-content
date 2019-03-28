@@ -12,5 +12,10 @@
 - npm安装时，package.json的项目名不能和要安装的报名同名，否则不能安装；
 - charles解决乱码问题；
 - charles如何设置代理；
+- charlesproxy.com/getssl；
 - 删除/命名github项目；
+-
+
+## 网页设计
+- 适配移动端的开发；
 -
