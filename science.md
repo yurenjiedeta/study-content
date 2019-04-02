@@ -7,8 +7,14 @@
 - gulp的使用；
 - 配置gulp-babel；
 
-## tslint的相关
+
+## npm的工具
 - tslint使用
+- tslint的配置属性；
+- tsconfig.json文件的作用，用于设置tsc编译的相关选项；详见https://www.cnblogs.com/zaihuilou/p/9556373.html
+- karma.config.js文件的详解；
+
+
 
 ## 其它
 - 如何配置github项目上传；
@@ -22,3 +28,6 @@
 ## 网页设计
 - 适配移动端的开发；
 -
+
+## 一些runner
+# -
