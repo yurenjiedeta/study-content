@@ -11,7 +11,7 @@
 ## npm的工具
 - tslint使用
 - tslint的配置属性；
-- tsconfig.json文件的作用，用于设置tsc编译的相关选项；详见https://www.cnblogs.com/zaihuilou/p/9556373.html
+- tsconfig.json文件的作用，用于设置tsc编译的相关选项；详见https://www.cnblogs.com/zaihuilou/p/9556373.html，或见tsconfig.json示例文件；
 - karma.config.js文件的详解；
 
 
